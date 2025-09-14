@@ -1,4 +1,4 @@
-// Enter all your detials in this file
+ // Enter all your detials in this file
 // Logo images
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
@@ -35,18 +35,18 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Esteban Salazar",
+  tagline: "Ingeniero en Informática",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Más de 10 años de experiencia en soporte técnico y backoffice, focalizado en la satisfacción del cliente..`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
+  linkdein: "https://www.linkedin.com/in/esteban-salazar-9b105b215/",
   github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  twitter: "https://x.com/_esalazar",
+  instagram: "https://www.instagram.com/controlesconcepcion/",
 };
 
 // Enter your Work Experience here
