@@ -107,18 +107,18 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Ingeniero de ejecución en informática",
+    Position: "Ingeniería de ejecución en informática",
     Company: "Universidad Catolica de Temuco",
     Location: "Concepción",
     Type: "Pregrado",
     Duration: "Marzo 2000 - Junio 2006",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Magister en ciencias de la computación",
+    Company: `Universidad del Bio Bio`,
+    Location: "Concepción",
+    Type: "Postgrado - inconcluso",
+    Duration: "Marzo 2011 - Octubre 2012",
   },
 ];
 
