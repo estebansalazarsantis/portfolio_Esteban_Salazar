@@ -42,22 +42,22 @@ function Header() {
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/about" onClick={toggleClass}>
-              About
+              Acerca de mi
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/technologies" onClick={toggleClass}>
-              Technologies
+              Tecnologias
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/projects" onClick={toggleClass}>
-              Projects
+              Proyectos
             </NavLink>
           </li>
           <li>
             <NavLink to="/contact" onClick={toggleClass}>
-              Contact
+              Contacto
             </NavLink>
           </li>
         </ul>
