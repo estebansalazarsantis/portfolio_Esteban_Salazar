@@ -38,7 +38,12 @@ export const personalDetails = {
   name: "Esteban Salazar",
   tagline: "Ingeniero en Informática",
   img: profile,
-  about: `Más de 10 años de experiencia en soporte técnico y backoffice, focalizado en la satisfacción del cliente..`,
+  about: [
+         "Más de 10 años de experiencia en soporte técnico y backoffice, focalizado en la satisfacción del cliente.",
+         "Gestión y coordinación de equipos de redes y redes sociales, con cumplimiento de SLA y KPIs.",
+         "Emprendimiento propio en programación y duplicado de mandos remotos para vehículos y portones (servicio a domicilio).",
+         "Formación continua en redes (IPv6, routing) y fundamentos de ciberseguridad."
+        ],
 };
 
 // Enter your Social Media URLs here
