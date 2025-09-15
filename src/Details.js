@@ -46,7 +46,7 @@ export const personalDetails = {
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/esteban-salazar-9b105b215/",
-  github: "https://www.github.com/",
+  github: "https://github.com/estebansalazarsantis",
   twitter: "https://x.com/_esalazar",
   instagram: "https://www.instagram.com/controlesconcepcion/",
 };
@@ -80,6 +80,27 @@ export const workDetails = [
     Location: "Concepción",
     Type: "Full Time",
     Duration: "Junio 2020 - Septiembre 2020",
+  },
+{
+    Position: "Back servicio técnico en Claro Chile",
+    Company: `Claro Chile`,
+    Location: "Concepción",
+    Type: "Full Time",
+    Duration: "Enero 2010 - Marzo 2018",
+  },
+{
+    Position: "Analista soporte de datos y proyectos sscc",
+    Company: `Claro Chile`,
+    Location: "Santiago",
+    Type: "Full Time",
+    Duration: "Enero 2009 - Diciembre 2009",
+  },
+{
+    Position: "Asesor de datos",
+    Company: `Claro Chile`,
+    Location: "Concepción",
+    Type: "Full Time",
+    Duration: "MArzo 2007 - Diciembre 2008",
   },
 ];
 
