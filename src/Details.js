@@ -52,18 +52,18 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: " Ingeniero gestión de proyectos",
+    Company: `Mundo`,
+    Location: "Concepcion",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Noviembre 2022 - Enero 2025",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: " Lider Redes Sociales",
+    Company: `Mundo`,
+    Location: "Concepción",
+    Type: "Full Time",
+    Duration: "Octubre 2021 - Octubre 2022",
   },
   {
     Position: "Internship",
