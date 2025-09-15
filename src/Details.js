@@ -39,10 +39,8 @@ export const personalDetails = {
   tagline: "Ingeniero en Informática",
   img: profile,
   about: [
-  "Más de 10 años de experiencia en soporte técnico y backoffice, con un fuerte enfoque en la satisfacción del cliente.",
-  "Gestión y coordinación de equipos en redes y redes sociales, asegurando el cumplimiento de SLA y KPIs.",
-  "Emprendedor en servicios de programación y duplicado de mandos remotos para vehículos y portones, incluyendo atención a domicilio.",
-  "Formación continua en redes (IPv6, routing) y fundamentos de ciberseguridad, actualizando constantemente mis conocimientos técnicos."
+  "Más de 10 años de experiencia en soporte técnico y backoffice, con un fuerte enfoque en la satisfacción del cliente. Gestión y coordinación de equipos en redes sociales, asegurando el cumplimiento de SLA y KPIs.",
+  "Emprendedor en servicios de programación y duplicado de mandos remotos para vehículos y portones, incluyendo atención a domicilio. Formación continua en redes (IPv6, routing) y fundamentos de ciberseguridad, actualizando constantemente mis conocimientos técnicos."
 ],
 };
 
