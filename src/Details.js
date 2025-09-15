@@ -87,7 +87,7 @@ export const eduDetails = [
     Position: "Ingeniero de ejecución en informática",
     Company: "Universidad Catolica de Temuco",
     Location: "Concepción",
-    Type: "Fu",
+    Type: "Pregrado",
     Duration: "Marzo 2000 - Junio 2006",
   },
   {
