@@ -146,7 +146,7 @@ export const projectDetails = [
     title: "Controles Concepción",
     image: projectImage1,
     description: `Controles Concepción es un servicio especializado en duplicado y programación de mandos para vehículos y portones eléctricos, ofreciendo atención personalizada y a domicilio. El proyecto destaca por la eficiencia en la entrega, el soporte al cliente y la gestión de pedidos de forma confiable`,
-    //techstack: "HTML/CSS, JavaScript",
+    techstack: "HTML/CSS, JavaScript",
     previewLink: "https://www.instagram.com/controlesconcepcion/",
     githubLink: "https://github.com",
   },
