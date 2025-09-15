@@ -143,59 +143,58 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Controles Concepción",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    description: `Controles Concepción es un servicio especializado en duplicado y programación de mandos para vehículos y portones eléctricos, ofreciendo atención personalizada y a domicilio. El proyecto destaca por la eficiencia en la entrega, el soporte al cliente y la gestión de pedidos de forma confiable`,
+    //techstack: "HTML/CSS, JavaScript",
+    previewLink: "https://www.instagram.com/controlesconcepcion/",
     githubLink: "https://github.com",
   },
-  {
-    title: "Project title 2",
-    image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 3",
-    image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
+  //{
+  //  title: "Project title 2",
+  //  image: projectImage2,
+  //  description: `This is sample project description random things are here in description This is sample
+  // project lorem ipsum generator for dummy content`,
+  //  techstack: "HTML/CSS, JavaScript",
+  //  previewLink: "https://google.com",
+  //  githubLink: "https://github.com",
+  //},
+  //{
+  //  title: "Project title 3",
+  //  image: projectImage3,
+  //  description: `This is sample project description random things are here in description This is sample
+//project lorem ipsum generator for dummy content`,
+  //  techstack: "HTML/CSS, JavaScript",
+  //  previewLink: "https://google.com",
+  //  githubLink: "https://github.com",
+ // },
+ // {
+ //   title: "Project title 4",
+ //   image: projectImage4,
+ //   description: `This is sample project description random things are here in description This is sample
+//project lorem ipsum generator for dummy content`,
+  //  techstack: "HTML/CSS, JavaScript",
+   // previewLink: "https://google.com",
+  //  githubLink: "https://github.com",
+  //},
+ // {
+ //   title: "Project title 5",
+ //   image: projectImage5,
+ //   description: `This is sample project description random things are here in description This is sample
+//project lorem ipsum generator for dummy content`,
+//    techstack: "HTML/CSS, JavaScript",
+ //   previewLink: "https://google.com",
+ //   githubLink: "https://github.com",
+ // },
+ // {
+ //   title: "Project title 6",
+ //   image: projectImage6,
+ //   description: `This is sample project description random things are here in description This is sample
+//project lorem ipsum generator for dummy content`,
+ //   techstack: "HTML/CSS, JavaScript",
+ //   previewLink: "https://google.com",
+ //   githubLink: "https://github.com",
+ // },
 ];
 
 // Enter your Contact Details here
