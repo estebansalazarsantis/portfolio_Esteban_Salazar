@@ -66,22 +66,29 @@ export const workDetails = [
     Duration: "Octubre 2021 - Octubre 2022",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: " Backoffice Técnico Móvil en Mundo Pacifico",
+    Company: `Mundo`,
+    Location: "Concepción",
+    Type: "Full Time",
+    Duration: "Octubre 2020 - Septiembre 2021",
+  },
+  {
+    Position: "Soporte Nivel 2",
+    Company: `Mundo`,
+    Location: "Concepción",
+    Type: "Full Time",
+    Duration: "Junio 2020 - Septiembre 2020",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Position: "Ingeniero de ejecución en informática",
+    Company: "Universidad Catolica de Temuco",
+    Location: "Concepción",
+    Type: "Fu",
+    Duration: "Marzo 2000 - Junio 2006",
   },
   {
     Position: "Bachelor in Electronics & Communication",
